@@ -38,11 +38,11 @@ The project employs chart-building algorithms to visualize and present content. 
 
 This project is a collaborative effort, and we'd like to extend our gratitude to the following individuals:
 
-- Project Design and Development: [Your Name]
-- AI Model Implementation: [Co-Author's Name]
-- Data Visualization and Charts: [Co-Author's Name]
-- Project Supervision: [Supervisor's Name]
-- Data Analysts and Research Team: [Research Team Members' Names]
+- Project Design and Development: [Lord S [Ashraf] , Mohammed Elkazzaz]
+- AI Model Implementation: [Coming up]
+- Data Visualization and Charts: [Lord S [Ashraf]]
+- Data Analysts and Research Team: [Research Team Members]
+- Project Supervision
 
 We appreciate the guidance and support provided by our project supervisors. While this project is still under development, we are proud to announce that we have completed a substantial portion of it. We look forward to its continuous improvement and potential positive impact on healthcare and public health.
 
